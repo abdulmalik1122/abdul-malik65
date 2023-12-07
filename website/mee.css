@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+    color: yellow;
+}
+h1{
+    font-size: 3rem;
+    color: yellow;
+}
+header{
+    display: flex;
+}
+header ul{
+    color: yellow;
+}
+
+header ul li{
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 23px;
+}
+header ul li a{
+    text-decoration: none;
+    color: yellowgreen;
+}
